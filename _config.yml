@@ -1,9 +1,14 @@
 title: "Heesung Yun"
-description: "Information Scurity Specialist Portfolio"
-baseurl: "" # yourusername.github.io인 경우는 빈값
+description: "Cybersecurity Portfolio"
 url: "https://heesungyun.github.io"
+baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-include-cache
+
+# Optional but recommended
+markdown: kramdown
+kramdown:
+  input: GFM
