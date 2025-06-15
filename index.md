@@ -1,8 +1,15 @@
 ---
 layout: home
-title: "Heesung Yun's Website"
-excerpt: "Cybersecurity Portfolio"
+title: "Heesung Yun"
+excerpt: "Security Engineer"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.2"
+  caption: "Information Security Specialist in New York"
+  actions:
+    - label: "View Projects"
+      url: "/projects/"
 ---
 
-👋 Hello! I'm Heesung Yun, an Information Security Specialist based in New York.  
-This site will walk you through the real projects and outcomes that back up my resume.
+🔐 Bridging Security and Strategy  
+With real-world projects in Identity Management, Threat Reduction, and Compliance Optimization.
