@@ -1,5 +1,5 @@
-title: "Heesung Yun"
-description: "Cybersecurity Portfolio"
+title: "Heesung Yun – Security Portfolio"
+description: "Portfolio of Heesung Yun, cybersecurity engineer specializing in IAM, SSO, and compliance."
 url: "https://heesungyun.github.io"
 baseurl: ""
 remote_theme: "mmistakes/minimal-mistakes"
@@ -21,3 +21,9 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:heesungyun89@gmail.com"
+
+# SEO
+#logo: "/assets/images/avatar.png"  # (이미지는 나중에 넣을 수 있음)
+#twitter_username: ""
+github_username: "heesungyun"
+#linkedin_username: ""  # 생략해도 OK
