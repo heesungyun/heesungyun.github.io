@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Heesung Yun"
+title: "Heesung Yun's Website"
 excerpt: "Cybersecurity Portfolio"
 ---
 
