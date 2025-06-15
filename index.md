@@ -1,7 +1,8 @@
 ---
 layout: home
 title: "Heesung Yun"
-excerpt: "My Information Security Portfolio"
+excerpt: "Cybersecurity Portfolio"
 ---
 
-👋 Hello, This is Heesung Yun. I like to show you my work in detail from my resume
+👋 Hello! I'm Heesung Yun, an Information Security Specialist based in New York.  
+This site will walk you through the real projects and outcomes that back up my resume.
