@@ -1,4 +1,4 @@
-# Heesung Yun – Information Security $ Cybersecurity Portfolio
+# Heesung Yun – Information Security Portfolio
 
 This is the personal portfolio site of Heesung Yun
 
