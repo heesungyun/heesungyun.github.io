@@ -14,3 +14,10 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
+
+author:
+  name: "Heesung Yun"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:heesungyun89@gmail.com"
