@@ -7,7 +7,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
-# Optional but recommended
-markdown: kramdown
-kramdown:
-  input: GFM
+collections:
+  pages:
+    output: true
+    permalink: /:title/
