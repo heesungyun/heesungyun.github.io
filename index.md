@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome"
+title: "Heesung Yun"
 excerpt: "My Information Security Portfolio"
 ---
 
