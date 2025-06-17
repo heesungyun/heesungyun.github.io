@@ -1,15 +1,16 @@
 ---
 layout: single
-title: "About Me"
+title: "About"
 permalink: /about/
 ---
 
-Hi, I’m **Heesung Yun**, an Information Security professional based in New York.  
-Currently, I work as Assistant Vice President at Shinhan Bank America, where I lead strategic security initiatives including IAM, SSO integration, SIEM optimization, and regulatory audits.
+Hi, I'm **Heesung Yun**, an information security professional based in New York.
 
-My expertise lies in connecting security frameworks with real business goals —  
-delivering measurable improvements in risk reduction, operational efficiency, and user experience.
+My work centers on bridging security with business strategy — from implementing IAM systems and SSO infrastructure to enhancing compliance, audit, and awareness programs. I believe in proactive security that empowers teams and protects organizations without friction.
 
-I believe that **strong security is the foundation of trust**, and I strive to implement systems that not only protect organizations but also support seamless and intuitive workflows.
+---
 
-> My long-term goal is to become a strategic security leader who bridges technical rigor and human-centered design — shaping a safer, smarter, and more user-aligned digital environment.
+🛠️ **This section is currently a work in progress.**  
+More personal background and insights into my philosophy, career journey, and values will be added soon.
+
+Thank you for your interest and for visiting this site as it evolves!
