@@ -14,5 +14,8 @@ header:
 🔐 Bridging Security and Strategy  
 With real-world projects in Identity Management, Threat Reduction, and Compliance Optimization.
 
-🚧 **Note:** This site is currently under construction.  
-Additional case studies and styling improvements will be added soon.
+---
+
+🚧 **Note:** This portfolio is currently under construction.  
+Additional case studies and styling improvements will be added soon.  
+Thank you for your interest and feel free to check out the [Projects](/projects/) section in the meantime.
